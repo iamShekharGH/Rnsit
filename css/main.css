@@ -1,0 +1,21 @@
+*{
+	border: 1px dotted black;
+}
+
+.container{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	
+
+}		
+header{
+	margin: 0;
+}
+.mainHeading{
+	padding: 0%;
+	margin:0;
+}
+section{
+	height: 300px;
+}
